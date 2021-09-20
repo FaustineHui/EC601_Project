@@ -40,4 +40,4 @@ I found that there are very few 2D to 3D conversions based on point cloud operat
 This is a method proposed by others that can significantly improve the effect of the final synthesized 3D image. This method is based on the traditional DIBR algorithm, but adds a point of view. The required virtual viewpoints are synthesized through two viewpoints to generate the final 3D image.
 Compared with the original algorithm, this improved algorithm will make the generated 3D images more authentic, that is, the look and feel is natural. I have used the DIBR algorithm and some simple 3D image conversion using this algorithm, and the output results are not satisfactory. The output 3D image still retains the characteristics of the 2D image.
 
-<img src="/images/fig1.gif" width="180" height="300" style="width:80%">
+<img src="/images/fig1.gif" width="180" height="300" style="width:80%" div align=center>
