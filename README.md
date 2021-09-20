@@ -48,7 +48,6 @@ Compared with the original algorithm, this improved algorithm will make the gene
 In the problem of 3D image processing, blanks and stitching in the output image are common phenomena. Although there have been improved algorithms as above, it is found in research that there will still be cracks in the final generated image. So additional processing is necessary.
 The repair algorithm can solve this problem well to effectively fill in the blank areas in the generated image.
 
-<div align=center>
 <img src="/images/fig2.gif" width="180" height="300" style="width:80%">
 
 * Conclusion
