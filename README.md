@@ -50,7 +50,7 @@ In the problem of 3D image processing, blanks and stitching in the output image 
 The repair algorithm can solve this problem well to effectively fill in the blank areas in the generated image.
 
 <div align=center>
-<img src="/images/fig2.gif" width="180" height="300" style="width:80%">
+<img src="/images/fig2.gif" width="180" height="240" style="width:80%">
 <div align=left>
 
 * Conclusion
